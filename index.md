@@ -1,6 +1,3 @@
-## Text Twist
-this is a word game which give you 7 randow letter and you should use them to create word then check it with my database, if there,you get points.
-
 ## How To Play
 1.when you open the page,click the "Start" button and wait a second 2.then you can see 7 button with random letters, use some of them to create a word 3.then click "Check" button to check if this word in my words list, if there, you can get points; 4.there are two situation you can game over:1.you got enough points;2.you lose too many chances.
 
